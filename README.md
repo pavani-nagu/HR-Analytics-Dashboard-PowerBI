@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="HR Insights Dashboard" src="https://github.com/user-attachments/assets/33011a59-ec7c-4c62-a653-f6ad47b8e93a" />
+<img width="1920" height="1080" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/a2ef19e7-5a19-4955-acb5-92ddf0d4d073" />
 # HR Analytics Dashboard 📊
 
 ## Project Overview
